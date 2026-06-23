@@ -1,0 +1,15 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.db
+backend/**/*.pyc
+
+# React/Vite
+frontend/node_modules/
+frontend/dist/
+
+# Next.js
+frontend/.next/
+
+# Environment
+.env
